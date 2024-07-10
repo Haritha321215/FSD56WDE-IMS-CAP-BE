@@ -1,6 +1,5 @@
 // require mongoose
 const mongoose = require("mongoose");
-
 // create a schema
 const userSchema = new mongoose.Schema({
   username: String,
@@ -16,7 +15,6 @@ const userSchema = new mongoose.Schema({
     default: "user",
   },
 });
-
 // create a model and export it
 // User is model, users is collection
 module.exports = mongoose.model("User", userSchema, "users");
