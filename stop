@@ -1,0 +1,47 @@
+[33mcommit 0a134e60ec40fe5767a5e165da6bbbdc922f0770[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Wed May 1 12:10:11 2024 -0500
+
+    updated url
+
+[33mcommit 588c87d2ff29619cc9deda128212a473de2c39d1[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Wed May 1 11:36:06 2024 -0500
+
+    added products
+
+[33mcommit fd17d6175751538acde042b7c6e56424922ee7ad[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Fri Apr 26 19:58:29 2024 -0500
+
+    added the endpoints getUser --updateUser --deleteUser --logout and authorisation
+
+[33mcommit fc241783c5eff5b91cfb2d6069f5cfa422da234d[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Fri Apr 26 00:44:51 2024 -0500
+
+    added login end point
+
+[33mcommit 44f96dbd671338b92997b5dadd37adf237426776[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Thu Apr 25 21:41:01 2024 -0500
+
+    set up --controllers --routes, --test register function
+
+[33mcommit 5af475cfa03c2dd2758023772e47023ee987be73[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Thu Apr 25 14:22:16 2024 -0500
+
+    start and listen the server is added
+
+[33mcommit a5b2290f6277e7b6a64a1ed6add956eb941af152[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Thu Apr 25 14:02:56 2024 -0500
+
+    connection to mongodb
+
+[33mcommit 6624a8999ac475d2de8d2c69db5720c453553e3b[m
+Author: Haritha321215 <nithyaprerana@gmail.com>
+Date:   Thu Apr 25 01:10:29 2024 -0500
+
+    first commit
